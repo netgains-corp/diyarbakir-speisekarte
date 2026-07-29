@@ -1,0 +1,5 @@
+# Exakt die Versionen, mit denen das Projekt gebaut und geprüft wurde.
+# Bei Problemen zuerst diese Versionen verwenden, bevor aktualisiert wird.
+reportlab==4.5.1
+pillow==12.2.0
+numpy==2.2.6
